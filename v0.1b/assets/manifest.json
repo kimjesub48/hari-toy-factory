@@ -1,0 +1,2845 @@
+{
+ "version": 1,
+ "images": {
+  "bg/assembly_night_wide": {
+   "file": "bg/assembly_night_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/assembly_wide": {
+   "file": "bg/assembly_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/doors_night_wide": {
+   "file": "bg/doors_night_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/doors_wide": {
+   "file": "bg/doors_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/exit_open_wide": {
+   "file": "bg/exit_open_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/exit_wide": {
+   "file": "bg/exit_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/exterior_wide": {
+   "file": "bg/exterior_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/hall_night_wide": {
+   "file": "bg/hall_night_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/hall_wide": {
+   "file": "bg/hall_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/map_wide": {
+   "file": "bg/map_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/packing_night_wide": {
+   "file": "bg/packing_night_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/packing_wide": {
+   "file": "bg/packing_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/room_wide": {
+   "file": "bg/room_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/warehouse_night_wide": {
+   "file": "bg/warehouse_night_wide.webp",
+   "w": 2688,
+   "h": 1152,
+   "logicalScale": 0.9375,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/warehouse_wide": {
+   "file": "bg/warehouse_wide.webp",
+   "w": 3168,
+   "h": 1344,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "brand/emblem": {
+   "file": "brand/emblem.webp",
+   "w": 560,
+   "h": 620,
+   "logicalScale": 0.476,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "brand/title_en": {
+   "file": "brand/title_en.webp",
+   "w": 1207,
+   "h": 685,
+   "logicalScale": 0.85,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "brand/title_ko": {
+   "file": "brand/title_ko.webp",
+   "w": 1331,
+   "h": 508,
+   "logicalScale": 0.85,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "chars/hari/bust_smile": {
+   "file": "chars/hari/bust_smile.webp",
+   "w": 331,
+   "h": 423,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/bust_talk": {
+   "file": "chars/hari/bust_talk.webp",
+   "w": 334,
+   "h": 423,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/bust_worried": {
+   "file": "chars/hari/bust_worried.webp",
+   "w": 337,
+   "h": 423,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/bust_wow": {
+   "file": "chars/hari/bust_wow.webp",
+   "w": 326,
+   "h": 422,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/caught": {
+   "file": "chars/hari/caught.webp",
+   "w": 298,
+   "h": 606,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/climb_0": {
+   "file": "chars/hari/climb_0.webp",
+   "w": 393,
+   "h": 591,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.538,
+    1
+   ]
+  },
+  "chars/hari/climb_1": {
+   "file": "chars/hari/climb_1.webp",
+   "w": 393,
+   "h": 591,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.538,
+    1
+   ]
+  },
+  "chars/hari/happy": {
+   "file": "chars/hari/happy.webp",
+   "w": 416,
+   "h": 558,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/hide": {
+   "file": "chars/hari/hide.webp",
+   "w": 353,
+   "h": 541,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/idle_back": {
+   "file": "chars/hari/idle_back.webp",
+   "w": 295,
+   "h": 602,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/idle_front": {
+   "file": "chars/hari/idle_front.webp",
+   "w": 300,
+   "h": 608,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/idle_side": {
+   "file": "chars/hari/idle_side.webp",
+   "w": 315,
+   "h": 598,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/present": {
+   "file": "chars/hari/present.webp",
+   "w": 389,
+   "h": 564,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/pull": {
+   "file": "chars/hari/pull.webp",
+   "w": 398,
+   "h": 568,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/push": {
+   "file": "chars/hari/push.webp",
+   "w": 406,
+   "h": 570,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/reach": {
+   "file": "chars/hari/reach.webp",
+   "w": 416,
+   "h": 554,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/run_0": {
+   "file": "chars/hari/run_0.webp",
+   "w": 380,
+   "h": 535,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5237,
+    1
+   ]
+  },
+  "chars/hari/run_1": {
+   "file": "chars/hari/run_1.webp",
+   "w": 380,
+   "h": 535,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5237,
+    1
+   ]
+  },
+  "chars/hari/run_2": {
+   "file": "chars/hari/run_2.webp",
+   "w": 380,
+   "h": 535,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5237,
+    1
+   ]
+  },
+  "chars/hari/run_3": {
+   "file": "chars/hari/run_3.webp",
+   "w": 380,
+   "h": 535,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5237,
+    1
+   ]
+  },
+  "chars/hari/surprised": {
+   "file": "chars/hari/surprised.webp",
+   "w": 386,
+   "h": 611,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/tiptoe": {
+   "file": "chars/hari/tiptoe.webp",
+   "w": 347,
+   "h": 569,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/hari/walk_0": {
+   "file": "chars/hari/walk_0.webp",
+   "w": 339,
+   "h": 588,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5661,
+    1
+   ]
+  },
+  "chars/hari/walk_1": {
+   "file": "chars/hari/walk_1.webp",
+   "w": 339,
+   "h": 588,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5661,
+    1
+   ]
+  },
+  "chars/hari/walk_2": {
+   "file": "chars/hari/walk_2.webp",
+   "w": 339,
+   "h": 588,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5661,
+    1
+   ]
+  },
+  "chars/hari/walk_3": {
+   "file": "chars/hari/walk_3.webp",
+   "w": 339,
+   "h": 588,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5661,
+    1
+   ]
+  },
+  "chars/npc/binggeul_dizzy": {
+   "file": "chars/npc/binggeul_dizzy.webp",
+   "w": 320,
+   "h": 389,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/binggeul_point": {
+   "file": "chars/npc/binggeul_point.webp",
+   "w": 353,
+   "h": 353,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/binggeul_spin": {
+   "file": "chars/npc/binggeul_spin.webp",
+   "w": 326,
+   "h": 371,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/binggeul_wave": {
+   "file": "chars/npc/binggeul_wave.webp",
+   "w": 336,
+   "h": 374,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/dwittung_idle": {
+   "file": "chars/npc/dwittung_idle.webp",
+   "w": 313,
+   "h": 360,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/dwittung_quack": {
+   "file": "chars/npc/dwittung_quack.webp",
+   "w": 369,
+   "h": 354,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/dwittung_rundown": {
+   "file": "chars/npc/dwittung_rundown.webp",
+   "w": 299,
+   "h": 308,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/dwittung_waddle": {
+   "file": "chars/npc/dwittung_waddle.webp",
+   "w": 334,
+   "h": 360,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/ringring_cheer": {
+   "file": "chars/npc/ringring_cheer.webp",
+   "w": 320,
+   "h": 410,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/ringring_idle": {
+   "file": "chars/npc/ringring_idle.webp",
+   "w": 323,
+   "h": 408,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/ringring_oops": {
+   "file": "chars/npc/ringring_oops.webp",
+   "w": 319,
+   "h": 610,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/ringring_stretch": {
+   "file": "chars/npc/ringring_stretch.webp",
+   "w": 310,
+   "h": 603,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/yangmari_idle": {
+   "file": "chars/npc/yangmari_idle.webp",
+   "w": 231,
+   "h": 548,
+   "logicalScale": 0.42,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/yangmari_laugh": {
+   "file": "chars/npc/yangmari_laugh.webp",
+   "w": 311,
+   "h": 545,
+   "logicalScale": 0.42,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/yangmari_peek_box": {
+   "file": "chars/npc/yangmari_peek_box.webp",
+   "w": 376,
+   "h": 438,
+   "logicalScale": 0.42,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/npc/yangmari_whisper": {
+   "file": "chars/npc/yangmari_whisper.webp",
+   "w": 312,
+   "h": 529,
+   "logicalScale": 0.42,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/bust_giggle": {
+   "file": "chars/nubi/bust_giggle.webp",
+   "w": 339,
+   "h": 378,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/bust_sad": {
+   "file": "chars/nubi/bust_sad.webp",
+   "w": 337,
+   "h": 377,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/bust_sleepy": {
+   "file": "chars/nubi/bust_sleepy.webp",
+   "w": 343,
+   "h": 358,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/bust_talk": {
+   "file": "chars/nubi/bust_talk.webp",
+   "w": 352,
+   "h": 378,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/confused": {
+   "file": "chars/nubi/confused.webp",
+   "w": 722,
+   "h": 707,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/count": {
+   "file": "chars/nubi/count.webp",
+   "w": 711,
+   "h": 738,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/count_back": {
+   "file": "chars/nubi/count_back.webp",
+   "w": 609,
+   "h": 700,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/found": {
+   "file": "chars/nubi/found.webp",
+   "w": 710,
+   "h": 732,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/happy": {
+   "file": "chars/nubi/happy.webp",
+   "w": 752,
+   "h": 708,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/hide_bad": {
+   "file": "chars/nubi/hide_bad.webp",
+   "w": 732,
+   "h": 671,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/idle": {
+   "file": "chars/nubi/idle.webp",
+   "w": 706,
+   "h": 718,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/oops": {
+   "file": "chars/nubi/oops.webp",
+   "w": 791,
+   "h": 680,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/peek": {
+   "file": "chars/nubi/peek.webp",
+   "w": 736,
+   "h": 684,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/search": {
+   "file": "chars/nubi/search.webp",
+   "w": 786,
+   "h": 751,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/sleep": {
+   "file": "chars/nubi/sleep.webp",
+   "w": 767,
+   "h": 650,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "chars/nubi/waddle_0": {
+   "file": "chars/nubi/waddle_0.webp",
+   "w": 725,
+   "h": 680,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.4796,
+    1
+   ]
+  },
+  "chars/nubi/waddle_1": {
+   "file": "chars/nubi/waddle_1.webp",
+   "w": 725,
+   "h": 680,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.4796,
+    1
+   ]
+  },
+  "chars/nubi/walk_0": {
+   "file": "chars/nubi/walk_0.webp",
+   "w": 600,
+   "h": 585,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.475,
+    1
+   ]
+  },
+  "chars/nubi/walk_1": {
+   "file": "chars/nubi/walk_1.webp",
+   "w": 600,
+   "h": 585,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.475,
+    1
+   ]
+  },
+  "chars/nubi/walk_2": {
+   "file": "chars/nubi/walk_2.webp",
+   "w": 600,
+   "h": 585,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.475,
+    1
+   ]
+  },
+  "chars/nubi/walk_3": {
+   "file": "chars/nubi/walk_3.webp",
+   "w": 600,
+   "h": 585,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.475,
+    1
+   ]
+  },
+  "chars/nubi/wave": {
+   "file": "chars/nubi/wave.webp",
+   "w": 745,
+   "h": 729,
+   "logicalScale": 0.725,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fx/arrow": {
+   "file": "fx/arrow.webp",
+   "w": 184,
+   "h": 197,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fx/bubble_talk": {
+   "file": "fx/bubble_talk.webp",
+   "w": 235,
+   "h": 191,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/bubble_think": {
+   "file": "fx/bubble_think.webp",
+   "w": 249,
+   "h": 211,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/confetti": {
+   "file": "fx/confetti.webp",
+   "w": 237,
+   "h": 183,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/dust": {
+   "file": "fx/dust.webp",
+   "w": 241,
+   "h": 228,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/exclaim": {
+   "file": "fx/exclaim.webp",
+   "w": 106,
+   "h": 231,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/footprints": {
+   "file": "fx/footprints.webp",
+   "w": 236,
+   "h": 207,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/glow_ring": {
+   "file": "fx/glow_ring.webp",
+   "w": 268,
+   "h": 206,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/heart": {
+   "file": "fx/heart.webp",
+   "w": 234,
+   "h": 193,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/light_cone": {
+   "file": "fx/light_cone.webp",
+   "w": 476,
+   "h": 558,
+   "logicalScale": 0.7,
+   "anchor": [
+    0.06,
+    0.04
+   ]
+  },
+  "fx/light_halo": {
+   "file": "fx/light_halo.webp",
+   "w": 214,
+   "h": 218,
+   "logicalScale": 0.7,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/light_pool": {
+   "file": "fx/light_pool.webp",
+   "w": 492,
+   "h": 224,
+   "logicalScale": 0.7,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/question": {
+   "file": "fx/question.webp",
+   "w": 168,
+   "h": 234,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/sparkle": {
+   "file": "fx/sparkle.webp",
+   "w": 216,
+   "h": 205,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/speed": {
+   "file": "fx/speed.webp",
+   "w": 222,
+   "h": 205,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/sweat": {
+   "file": "fx/sweat.webp",
+   "w": 135,
+   "h": 193,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/twinkle": {
+   "file": "fx/twinkle.webp",
+   "w": 159,
+   "h": 179,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/zzz": {
+   "file": "fx/zzz.webp",
+   "w": 233,
+   "h": 221,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "glove/compact": {
+   "file": "glove/compact.webp",
+   "w": 363,
+   "h": 261,
+   "logicalScale": 0.3,
+   "anchor": [
+    0.12,
+    0.62
+   ]
+  },
+  "glove/extended": {
+   "file": "glove/extended.webp",
+   "w": 659,
+   "h": 225,
+   "logicalScale": 0.3,
+   "anchor": [
+    0.03,
+    0.55
+   ]
+  },
+  "glove/link": {
+   "file": "glove/link.webp",
+   "w": 246,
+   "h": 261,
+   "logicalScale": 0.3,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "glove/mitten_fist": {
+   "file": "glove/mitten_fist.webp",
+   "w": 236,
+   "h": 266,
+   "logicalScale": 0.3,
+   "anchor": [
+    0.5,
+    0.85
+   ]
+  },
+  "glove/mitten_key": {
+   "file": "glove/mitten_key.webp",
+   "w": 249,
+   "h": 299,
+   "logicalScale": 0.3,
+   "anchor": [
+    0.5,
+    0.85
+   ]
+  },
+  "glove/mitten_open": {
+   "file": "glove/mitten_open.webp",
+   "w": 248,
+   "h": 300,
+   "logicalScale": 0.3,
+   "anchor": [
+    0.5,
+    0.85
+   ]
+  },
+  "props/ball_blue": {
+   "file": "props/ball_blue.webp",
+   "w": 202,
+   "h": 198,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/ball_green": {
+   "file": "props/ball_green.webp",
+   "w": 202,
+   "h": 198,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/ball_red": {
+   "file": "props/ball_red.webp",
+   "w": 202,
+   "h": 199,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/ball_yellow": {
+   "file": "props/ball_yellow.webp",
+   "w": 202,
+   "h": 199,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/basket": {
+   "file": "props/basket.webp",
+   "w": 226,
+   "h": 176,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/battery_empty": {
+   "file": "props/battery_empty.webp",
+   "w": 151,
+   "h": 250,
+   "logicalScale": 0.43,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/battery_full": {
+   "file": "props/battery_full.webp",
+   "w": 150,
+   "h": 250,
+   "logicalScale": 0.43,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/bell_blue": {
+   "file": "props/bell_blue.webp",
+   "w": 143,
+   "h": 206,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/bell_green": {
+   "file": "props/bell_green.webp",
+   "w": 143,
+   "h": 206,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/bell_purple": {
+   "file": "props/bell_purple.webp",
+   "w": 142,
+   "h": 206,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/bell_red": {
+   "file": "props/bell_red.webp",
+   "w": 144,
+   "h": 206,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/bell_yellow": {
+   "file": "props/bell_yellow.webp",
+   "w": 143,
+   "h": 206,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/bin_blue": {
+   "file": "props/bin_blue.webp",
+   "w": 306,
+   "h": 184,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/bin_green": {
+   "file": "props/bin_green.webp",
+   "w": 304,
+   "h": 184,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/bin_red": {
+   "file": "props/bin_red.webp",
+   "w": 305,
+   "h": 184,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/bin_yellow": {
+   "file": "props/bin_yellow.webp",
+   "w": 304,
+   "h": 184,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/box_a": {
+   "file": "props/box_a.webp",
+   "w": 243,
+   "h": 233,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/box_b": {
+   "file": "props/box_b.webp",
+   "w": 241,
+   "h": 233,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/box_big": {
+   "file": "props/box_big.webp",
+   "w": 261,
+   "h": 261,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/box_c": {
+   "file": "props/box_c.webp",
+   "w": 239,
+   "h": 233,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/box_d": {
+   "file": "props/box_d.webp",
+   "w": 241,
+   "h": 233,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/box_open": {
+   "file": "props/box_open.webp",
+   "w": 377,
+   "h": 315,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/box_small": {
+   "file": "props/box_small.webp",
+   "w": 173,
+   "h": 170,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/button_down": {
+   "file": "props/button_down.webp",
+   "w": 221,
+   "h": 240,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/button_up": {
+   "file": "props/button_up.webp",
+   "w": 236,
+   "h": 250,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/chest_closed": {
+   "file": "props/chest_closed.webp",
+   "w": 384,
+   "h": 244,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/chest_open": {
+   "file": "props/chest_open.webp",
+   "w": 372,
+   "h": 315,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/crate": {
+   "file": "props/crate.webp",
+   "w": 244,
+   "h": 218,
+   "logicalScale": 0.96,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/cushions": {
+   "file": "props/cushions.webp",
+   "w": 485,
+   "h": 319,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/door_anim_blue_0": {
+   "file": "props/door_anim_blue_0.webp",
+   "w": 353,
+   "h": 545,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_blue_1": {
+   "file": "props/door_anim_blue_1.webp",
+   "w": 353,
+   "h": 545,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_blue_2": {
+   "file": "props/door_anim_blue_2.webp",
+   "w": 353,
+   "h": 545,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_green_0": {
+   "file": "props/door_anim_green_0.webp",
+   "w": 353,
+   "h": 572,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_green_1": {
+   "file": "props/door_anim_green_1.webp",
+   "w": 353,
+   "h": 572,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_green_2": {
+   "file": "props/door_anim_green_2.webp",
+   "w": 353,
+   "h": 572,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_red_0": {
+   "file": "props/door_anim_red_0.webp",
+   "w": 350,
+   "h": 549,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_red_1": {
+   "file": "props/door_anim_red_1.webp",
+   "w": 350,
+   "h": 549,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_red_2": {
+   "file": "props/door_anim_red_2.webp",
+   "w": 350,
+   "h": 549,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_yellow_0": {
+   "file": "props/door_anim_yellow_0.webp",
+   "w": 343,
+   "h": 567,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_yellow_1": {
+   "file": "props/door_anim_yellow_1.webp",
+   "w": 343,
+   "h": 567,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_anim_yellow_2": {
+   "file": "props/door_anim_yellow_2.webp",
+   "w": 343,
+   "h": 567,
+   "logicalScale": 0.81,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_open_blue": {
+   "file": "props/door_open_blue.webp",
+   "w": 329,
+   "h": 557,
+   "logicalScale": 0.75,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_open_blue_wide": {
+   "file": "props/door_open_blue_wide.webp",
+   "w": 312,
+   "h": 544,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_open_green": {
+   "file": "props/door_open_green.webp",
+   "w": 331,
+   "h": 558,
+   "logicalScale": 0.75,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_open_green_wide": {
+   "file": "props/door_open_green_wide.webp",
+   "w": 327,
+   "h": 544,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_open_red": {
+   "file": "props/door_open_red.webp",
+   "w": 329,
+   "h": 573,
+   "logicalScale": 0.75,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_open_red_wide": {
+   "file": "props/door_open_red_wide.webp",
+   "w": 308,
+   "h": 561,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_open_yellow": {
+   "file": "props/door_open_yellow.webp",
+   "w": 328,
+   "h": 559,
+   "logicalScale": 0.75,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/door_open_yellow_wide": {
+   "file": "props/door_open_yellow_wide.webp",
+   "w": 325,
+   "h": 545,
+   "logicalScale": 0.8036,
+   "anchor": [
+    0,
+    0
+   ]
+  },
+  "props/gear_big": {
+   "file": "props/gear_big.webp",
+   "w": 270,
+   "h": 255,
+   "logicalScale": 0.45,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/gear_small": {
+   "file": "props/gear_small.webp",
+   "w": 198,
+   "h": 197,
+   "logicalScale": 0.45,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/gift_blue": {
+   "file": "props/gift_blue.webp",
+   "w": 262,
+   "h": 248,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/gift_green": {
+   "file": "props/gift_green.webp",
+   "w": 261,
+   "h": 248,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/gift_red": {
+   "file": "props/gift_red.webp",
+   "w": 260,
+   "h": 248,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/gift_yellow": {
+   "file": "props/gift_yellow.webp",
+   "w": 262,
+   "h": 248,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/key_blue": {
+   "file": "props/key_blue.webp",
+   "w": 263,
+   "h": 289,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/key_gold": {
+   "file": "props/key_gold.webp",
+   "w": 276,
+   "h": 303,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/key_green": {
+   "file": "props/key_green.webp",
+   "w": 261,
+   "h": 289,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/key_red": {
+   "file": "props/key_red.webp",
+   "w": 263,
+   "h": 287,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/key_yellow": {
+   "file": "props/key_yellow.webp",
+   "w": 261,
+   "h": 288,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/ladder": {
+   "file": "props/ladder.webp",
+   "w": 242,
+   "h": 669,
+   "logicalScale": 0.9,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/lever_down": {
+   "file": "props/lever_down.webp",
+   "w": 263,
+   "h": 207,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/lever_up": {
+   "file": "props/lever_up.webp",
+   "w": 220,
+   "h": 324,
+   "logicalScale": 0.6,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/lock_blue": {
+   "file": "props/lock_blue.webp",
+   "w": 229,
+   "h": 274,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/lock_gold_open": {
+   "file": "props/lock_gold_open.webp",
+   "w": 234,
+   "h": 293,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/lock_green": {
+   "file": "props/lock_green.webp",
+   "w": 225,
+   "h": 273,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/lock_red": {
+   "file": "props/lock_red.webp",
+   "w": 227,
+   "h": 272,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/lock_yellow": {
+   "file": "props/lock_yellow.webp",
+   "w": 224,
+   "h": 274,
+   "logicalScale": 0.37,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/mallet": {
+   "file": "props/mallet.webp",
+   "w": 143,
+   "h": 237,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/melody_card": {
+   "file": "props/melody_card.webp",
+   "w": 440,
+   "h": 173,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/musicbox": {
+   "file": "props/musicbox.webp",
+   "w": 544,
+   "h": 492,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/note_blue": {
+   "file": "props/note_blue.webp",
+   "w": 109,
+   "h": 126,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/note_green": {
+   "file": "props/note_green.webp",
+   "w": 108,
+   "h": 126,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/note_purple": {
+   "file": "props/note_purple.webp",
+   "w": 112,
+   "h": 126,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/note_red": {
+   "file": "props/note_red.webp",
+   "w": 108,
+   "h": 126,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/note_yellow": {
+   "file": "props/note_yellow.webp",
+   "w": 108,
+   "h": 126,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/plant": {
+   "file": "props/plant.webp",
+   "w": 372,
+   "h": 341,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/shape_circle": {
+   "file": "props/shape_circle.webp",
+   "w": 135,
+   "h": 146,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/shape_heart": {
+   "file": "props/shape_heart.webp",
+   "w": 145,
+   "h": 146,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/shape_moon": {
+   "file": "props/shape_moon.webp",
+   "w": 126,
+   "h": 160,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/shape_square": {
+   "file": "props/shape_square.webp",
+   "w": 137,
+   "h": 142,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/shape_star": {
+   "file": "props/shape_star.webp",
+   "w": 147,
+   "h": 156,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/shape_triangle": {
+   "file": "props/shape_triangle.webp",
+   "w": 145,
+   "h": 147,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/sorter_box": {
+   "file": "props/sorter_box.webp",
+   "w": 434,
+   "h": 460,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/sorter_open": {
+   "file": "props/sorter_open.webp",
+   "w": 425,
+   "h": 517,
+   "logicalScale": 0.62,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/tent_closed": {
+   "file": "props/tent_closed.webp",
+   "w": 417,
+   "h": 379,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/tent_open": {
+   "file": "props/tent_open.webp",
+   "w": 410,
+   "h": 363,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/toy_ball": {
+   "file": "props/toy_ball.webp",
+   "w": 314,
+   "h": 307,
+   "logicalScale": 0.36,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/toy_drum": {
+   "file": "props/toy_drum.webp",
+   "w": 315,
+   "h": 309,
+   "logicalScale": 0.36,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/toy_duck": {
+   "file": "props/toy_duck.webp",
+   "w": 338,
+   "h": 312,
+   "logicalScale": 0.36,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/toy_musicbox": {
+   "file": "props/toy_musicbox.webp",
+   "w": 387,
+   "h": 274,
+   "logicalScale": 0.36,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/toy_teddy": {
+   "file": "props/toy_teddy.webp",
+   "w": 338,
+   "h": 354,
+   "logicalScale": 0.36,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/toy_top": {
+   "file": "props/toy_top.webp",
+   "w": 285,
+   "h": 332,
+   "logicalScale": 0.36,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/train_bell": {
+   "file": "props/train_bell.webp",
+   "w": 123,
+   "h": 148,
+   "logicalScale": 0.63,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/train_body": {
+   "file": "props/train_body.webp",
+   "w": 406,
+   "h": 268,
+   "logicalScale": 0.63,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/train_bumper": {
+   "file": "props/train_bumper.webp",
+   "w": 191,
+   "h": 163,
+   "logicalScale": 0.63,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/train_chimney": {
+   "file": "props/train_chimney.webp",
+   "w": 166,
+   "h": 191,
+   "logicalScale": 0.63,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/train_done": {
+   "file": "props/train_done.webp",
+   "w": 485,
+   "h": 363,
+   "logicalScale": 0.63,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/train_roof": {
+   "file": "props/train_roof.webp",
+   "w": 323,
+   "h": 120,
+   "logicalScale": 0.63,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/train_wagon": {
+   "file": "props/train_wagon.webp",
+   "w": 341,
+   "h": 187,
+   "logicalScale": 0.63,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "props/train_wheel": {
+   "file": "props/train_wheel.webp",
+   "w": 174,
+   "h": 177,
+   "logicalScale": 0.63,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "props/xylophone": {
+   "file": "props/xylophone.webp",
+   "w": 567,
+   "h": 246,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "story/ending_goodbye": {
+   "file": "story/ending_goodbye.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/ending_hug": {
+   "file": "story/ending_hug.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/ending_morning": {
+   "file": "story/ending_morning.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/ending_photo": {
+   "file": "story/ending_photo.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/intro_1_desk": {
+   "file": "story/intro_1_desk.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/intro_2_portal": {
+   "file": "story/intro_2_portal.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/intro_3_arrive": {
+   "file": "story/intro_3_arrive.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/badge_done": {
+   "file": "ui/badge_done.webp",
+   "w": 290,
+   "h": 290,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/badge_hint": {
+   "file": "ui/badge_hint.webp",
+   "w": 287,
+   "h": 286,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/badge_key": {
+   "file": "ui/badge_key.webp",
+   "w": 290,
+   "h": 287,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/badge_locked": {
+   "file": "ui/badge_locked.webp",
+   "w": 295,
+   "h": 287,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_back": {
+   "file": "ui/btn_back.webp",
+   "w": 246,
+   "h": 246,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_close": {
+   "file": "ui/btn_close.webp",
+   "w": 216,
+   "h": 217,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_hint": {
+   "file": "ui/btn_hint.webp",
+   "w": 238,
+   "h": 240,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_home": {
+   "file": "ui/btn_home.webp",
+   "w": 246,
+   "h": 246,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_ok": {
+   "file": "ui/btn_ok.webp",
+   "w": 221,
+   "h": 221,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_pause": {
+   "file": "ui/btn_pause.webp",
+   "w": 244,
+   "h": 246,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_pill": {
+   "file": "ui/btn_pill.webp",
+   "w": 319,
+   "h": 151,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_play": {
+   "file": "ui/btn_play.webp",
+   "w": 246,
+   "h": 246,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_retry": {
+   "file": "ui/btn_retry.webp",
+   "w": 249,
+   "h": 247,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_settings": {
+   "file": "ui/btn_settings.webp",
+   "w": 244,
+   "h": 241,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_sound_off": {
+   "file": "ui/btn_sound_off.webp",
+   "w": 243,
+   "h": 241,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_sound_on": {
+   "file": "ui/btn_sound_on.webp",
+   "w": 243,
+   "h": 241,
+   "logicalScale": 0.61,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/dialog": {
+   "file": "ui/dialog.webp",
+   "w": 639,
+   "h": 206,
+   "logicalScale": 1.2,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/hand_point": {
+   "file": "ui/hand_point.webp",
+   "w": 220,
+   "h": 234,
+   "logicalScale": 0.55,
+   "anchor": [
+    0.2,
+    0.1
+   ]
+  },
+  "ui/icon_battery": {
+   "file": "ui/icon_battery.webp",
+   "w": 124,
+   "h": 225,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_gear": {
+   "file": "ui/icon_gear.webp",
+   "w": 216,
+   "h": 218,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_glove": {
+   "file": "ui/icon_glove.webp",
+   "w": 193,
+   "h": 238,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_hint": {
+   "file": "ui/icon_hint.webp",
+   "w": 172,
+   "h": 239,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_key": {
+   "file": "ui/icon_key.webp",
+   "w": 143,
+   "h": 232,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_lock": {
+   "file": "ui/icon_lock.webp",
+   "w": 183,
+   "h": 228,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_map": {
+   "file": "ui/icon_map.webp",
+   "w": 211,
+   "h": 196,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_search": {
+   "file": "ui/icon_search.webp",
+   "w": 203,
+   "h": 232,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_star": {
+   "file": "ui/icon_star.webp",
+   "w": 195,
+   "h": 195,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_train": {
+   "file": "ui/icon_train.webp",
+   "w": 229,
+   "h": 205,
+   "logicalScale": 0.48,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/map_pin_hari": {
+   "file": "ui/map_pin_hari.webp",
+   "w": 294,
+   "h": 343,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "ui/meter_calm": {
+   "file": "ui/meter_calm.webp",
+   "w": 260,
+   "h": 253,
+   "logicalScale": 0.41,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/meter_fill_1": {
+   "file": "ui/meter_fill_1.webp",
+   "w": 189,
+   "h": 177,
+   "logicalScale": 0.31,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/meter_fill_2": {
+   "file": "ui/meter_fill_2.webp",
+   "w": 189,
+   "h": 177,
+   "logicalScale": 0.31,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/meter_fill_3": {
+   "file": "ui/meter_fill_3.webp",
+   "w": 188,
+   "h": 177,
+   "logicalScale": 0.31,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/meter_fill_4": {
+   "file": "ui/meter_fill_4.webp",
+   "w": 188,
+   "h": 177,
+   "logicalScale": 0.31,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/meter_fill_5": {
+   "file": "ui/meter_fill_5.webp",
+   "w": 186,
+   "h": 177,
+   "logicalScale": 0.31,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/meter_frame": {
+   "file": "ui/meter_frame.webp",
+   "w": 1313,
+   "h": 212,
+   "logicalScale": 0.575,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/meter_heart": {
+   "file": "ui/meter_heart.webp",
+   "w": 258,
+   "h": 251,
+   "logicalScale": 0.41,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/meter_knob": {
+   "file": "ui/meter_knob.webp",
+   "w": 170,
+   "h": 170,
+   "logicalScale": 0.41,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/panel": {
+   "file": "ui/panel.webp",
+   "w": 646,
+   "h": 403,
+   "logicalScale": 1.2,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/ribbon": {
+   "file": "ui/ribbon.webp",
+   "w": 637,
+   "h": 192,
+   "logicalScale": 0.7,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/signpost": {
+   "file": "ui/signpost.webp",
+   "w": 291,
+   "h": 290,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "ui/slot": {
+   "file": "ui/slot.webp",
+   "w": 205,
+   "h": 207,
+   "logicalScale": 0.78,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/slot_selected": {
+   "file": "ui/slot_selected.webp",
+   "w": 236,
+   "h": 240,
+   "logicalScale": 0.78,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/star_empty": {
+   "file": "ui/star_empty.webp",
+   "w": 290,
+   "h": 288,
+   "logicalScale": 0.45,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/star_full": {
+   "file": "ui/star_full.webp",
+   "w": 294,
+   "h": 288,
+   "logicalScale": 0.45,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/sticker_doors": {
+   "file": "ui/sticker_doors.webp",
+   "w": 333,
+   "h": 317,
+   "logicalScale": 0.46,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/sticker_glove": {
+   "file": "ui/sticker_glove.webp",
+   "w": 330,
+   "h": 315,
+   "logicalScale": 0.46,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/sticker_hari": {
+   "file": "ui/sticker_hari.webp",
+   "w": 331,
+   "h": 319,
+   "logicalScale": 0.46,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/sticker_key": {
+   "file": "ui/sticker_key.webp",
+   "w": 329,
+   "h": 319,
+   "logicalScale": 0.46,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/sticker_lantern": {
+   "file": "ui/sticker_lantern.webp",
+   "w": 324,
+   "h": 317,
+   "logicalScale": 0.46,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/sticker_nubi": {
+   "file": "ui/sticker_nubi.webp",
+   "w": 330,
+   "h": 316,
+   "logicalScale": 0.46,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/sticker_toys": {
+   "file": "ui/sticker_toys.webp",
+   "w": 329,
+   "h": 317,
+   "logicalScale": 0.46,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/sticker_train": {
+   "file": "ui/sticker_train.webp",
+   "w": 330,
+   "h": 319,
+   "logicalScale": 0.46,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/toggle_off": {
+   "file": "ui/toggle_off.webp",
+   "w": 270,
+   "h": 162,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/toggle_on": {
+   "file": "ui/toggle_on.webp",
+   "w": 280,
+   "h": 162,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_assemble": {
+   "file": "ui/tut_assemble.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_climb": {
+   "file": "ui/tut_climb.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_colorsort": {
+   "file": "ui/tut_colorsort.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_distract": {
+   "file": "ui/tut_distract.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_find": {
+   "file": "ui/tut_find.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_glove": {
+   "file": "ui/tut_glove.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_hide": {
+   "file": "ui/tut_hide.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_key_door": {
+   "file": "ui/tut_key_door.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_lever": {
+   "file": "ui/tut_lever.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_meter": {
+   "file": "ui/tut_meter.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_move": {
+   "file": "ui/tut_move.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_music": {
+   "file": "ui/tut_music.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tut_shapes": {
+   "file": "ui/tut_shapes.webp",
+   "w": 960,
+   "h": 720,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/ad_tv": {
+   "file": "ui/ad_tv.webp",
+   "w": 128,
+   "h": 128,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  }
+ }
+}
